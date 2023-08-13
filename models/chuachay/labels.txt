@@ -1,0 +1,7 @@
+0 normal
+1 luanho
+2 luavua
+3 lualon
+4 quatgio
+5 book
+6 nothing
